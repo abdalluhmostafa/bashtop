@@ -111,6 +111,17 @@ Dropbear seems to not be able to set correct locale. So if accessing bashtop ove
 
 **[bash](https://www.gnu.org/software/bash/)** (v4.4 or later) Script functionality will most probably break with earlier versions.
 Bash version 5 is highly recommended to make use of $EPOCHREALTIME variable instead of a lot of external date command calls.
+////////////////////
+
+**Install Bash v4.4
+wget https://ftp.gnu.org/gnu/bash/bash-4.4.tar.gz
+tar xf bash-4.4.tar.gz
+cd bash-4.4
+./configure
+make
+sudo make install
+
+//////////////////////
 
 **[GNU Core Utilities](https://www.gnu.org/software/coreutils/)**
 
