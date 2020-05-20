@@ -325,6 +325,10 @@ Might finish off items out of order since I usually work on multiple at a time.
 
 - [ ] Python port.
 
+## Thanks for code builder * copyright for
+
+https://github.com/aristocratos/bashtop
+
 ## LICENSE
 
 [Apache License 2.0](LICENSE)
